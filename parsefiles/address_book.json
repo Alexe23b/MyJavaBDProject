@@ -1,0 +1,24 @@
+{
+  "type":"contact",
+  "properties": {
+    "id": 0,
+    "firstName": "Иван",
+    "lastName": "Иванов",
+    "photo": "",
+    "birthDay": "1980-11-30",
+    "email": "jjkjb@gmail.com",
+    "address": {
+      "country": "Украина",
+      "city": "Харьков",
+      "street": "Московское шоссе",
+      "houseNumber": "101",
+      "houseSuffix": "Б",
+      "apartment": "101",
+      "postalCode": 30485
+    },
+    "phoneNumbers": [
+      "093 123-1234",
+      "096 123-4567"
+    ]
+  }
+}

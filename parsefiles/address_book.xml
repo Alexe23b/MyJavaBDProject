@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addressBook>
+    <contact id="0">
+        <firstName>Вася</firstName>
+        <lastName>Иванов</lastName>
+        <foto> </foto>
+        <birthday>1987-03-12</birthday>
+        <email>jhdncj@gmail.com</email>
+        <address>
+            <country>Украина</country>
+            <city>Харьков</city>
+            <street>Московское шоссе</street>
+            <houseNumber>101</houseNumber>
+            <houseSuffix>Б</houseSuffix>
+            <apartment>101</apartment>
+            <postalCode>30485</postalCode>
+            <zip_code>54321-6789</zip_code>
+        </address>
+        <phoneNumbers>
+            <phoneNumber1>093 123-1234</phoneNumber1>
+            <phoneNumber2>093 123-5678</phoneNumber2>
+        </phoneNumbers>
+    </contact>
+</addressBook>
